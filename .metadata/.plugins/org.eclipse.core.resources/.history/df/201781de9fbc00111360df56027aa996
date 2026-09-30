@@ -1,0 +1,30 @@
+package utils;
+
+import java.util.List;
+import java.util.ListIterator;
+import java.util.Random;
+
+public class GestionCartes {
+
+	public static <T> T extraire1(List<T> liste) {
+		int indice = new Random().nextInt(liste.size());
+		return liste.remove(indice);
+	}
+	
+	public static <T> T extraire2(List<T> liste) {
+		int position = new Random().nextInt(liste.size());
+		ListIterator<T> iterator = liste.listIterator();
+		T element = null;
+		for (int i=0; i<position;i++) element = iterator.next();
+		iterator.remove();
+		return element;
+	}
+	
+	public static <T> T melanger(List<T> liste) {
+		for (ListIterator<T> iterator = liste.listIterator();iterator.hasNext();) {
+			
+		}
+	}
+	
+	
+}

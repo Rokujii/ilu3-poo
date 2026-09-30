@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
     <entry loc="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.2.v20250131-0604" stamp="1758806844818"/>
-    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot" stamp="1774853851391"/>
+    <entry loc="C:\Program Files (x86)\Java\jre1.8.0_202" stamp="1784614230618"/>
     <entry loc="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_23.0.2.v20250131-0604\jre" stamp="1758806844815"/>
+    <entry loc="C:\Program Files (x86)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822" stamp="1790136858452"/>
+    <entry loc="C:\Program Files (x86)\Java\jre1.8.0_201" stamp="1772709059132"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_201" stamp="1772709078898"/>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-17.0.20.101-hotspot" stamp="1788790588977"/>
+    <entry loc="C:\Program Files\Java\jre1.8.0_202" stamp="1784614245803"/>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-21.0.12.8-hotspot" stamp="1787152480016"/>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-17.0.18.8-hotspot" stamp="1774853851391"/>
+    <entry loc="C:\Program Files\Eclipse Adoptium\jdk-17.0.20.8-hotspot" stamp="1787152496283"/>
+    <entry loc="C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.17.10-hotspot" stamp="1781498068867"/>
+    <entry loc="C:\Program Files (x86)\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_25.0.4.v20260826-0822\jre" stamp="1790136858446"/>
 </dirs>

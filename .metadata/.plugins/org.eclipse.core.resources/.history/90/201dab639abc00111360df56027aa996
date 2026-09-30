@@ -1,0 +1,13 @@
+package utils;
+
+import java.util.Random;
+
+public class GestionCartes {
+
+	public static <T> T extraire(T[] liste) {
+		Random random = new Random();
+		
+		int elem = random.nextInt(liste.length);
+		
+	}
+}
